@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342101245960",
+    "firebase_url": "https://scaleenglish-default-rtdb.firebaseio.com",
+    "project_id": "scaleenglish",
+    "storage_bucket": "scaleenglish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342101245960:android:e827bf06cd0a68f082d1bd",
+        "android_client_info": {
+          "package_name": "com.Scalelot.ScaleEnglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342101245960-i0qoo3kioovib70k49rpfnkiodlgjoht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3Rc1tA4ZLjeUb9WT3KhNfnDfxcAFBr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342101245960-i0qoo3kioovib70k49rpfnkiodlgjoht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342101245960-7qpsm0eqio3s3ku7i5a1jfj17s4k0541.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Scalelot.ScaleEnglish"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
